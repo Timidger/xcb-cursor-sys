@@ -1,0 +1,3 @@
+[submodule "xcb_cursor"]
+	path = xcb_cursor
+	url = ./xcb_cursor/
